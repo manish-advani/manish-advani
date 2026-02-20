@@ -139,14 +139,7 @@ $projects = [
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manesh-kumar-advani)
 [![Email](https://img.shields.io/badge/Email-Send_me_a_message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishotic@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_with_me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/971509570380)
-
-<br>
-
-**📧 Email**: [manishotic@gmail.com](mailto:manishotic@gmail.com)  
-**🔗 LinkedIn**: [linkedin.com/in/manesh-kumar-advani](https://linkedin.com/in/manesh-kumar-advani)  
-**💼 Company**: [Digital Ad Experts](https://digitaladexperts.com/)
-
-<br>
+[![Company](https://img.shields.io/badge/Company-Digital_Ad_Experts-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://digitaladexperts.com/)
 
 ---
 
