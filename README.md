@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Manesh Kumar Advani
 
-### 💻 PHP Developer | WordPress Expert | Laravel Specialist | Full-Stack Web Developer
+### 💻 Full-Stack Web Developer | PHP Developer | Laravel Specialist | WordPress Expert
 
 [![Location](https://img.shields.io/badge/📍_Location-Dubai,_UAE-blue?style=flat-square)](https://www.google.com/maps/place/Dubai)
 [![Email](https://img.shields.io/badge/📧_Email-manishotic%40gmail.com-red?style=flat-square)](mailto:manishotic@gmail.com)
