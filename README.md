@@ -5,7 +5,7 @@
 ### 💻 Full-Stack Web Developer | PHP Developer | Laravel Specialist | WordPress Expert
 
 [![Location](https://img.shields.io/badge/📍_Location-Dubai,_UAE-blue?style=flat-square)](https://www.google.com/maps/place/Dubai)
-[![Email](https://img.shields.io/badge/📧_Email-manishotic%40gmail.com-red?style=flat-square)](mailto:manishotic@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email-Send_me_a_message-red?style=flat-square)](mailto:manishotic@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/manesh-kumar-advani)
 
 </div>
