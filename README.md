@@ -29,7 +29,7 @@ class ManeshKumarAdvani extends Developer {
     public string $name     = "Manesh Kumar Advani";
     public string $role     = "Full-Stack Web Developer";
     public string $location = "Dubai, UAE 🇦🇪";
-    public string $company  = "Digital Ad Experts";
+    public string $company  = "8Sols | Digital Solutions";
 
     public array $expertise = [
         "PHP", "Laravel", "WordPress",
