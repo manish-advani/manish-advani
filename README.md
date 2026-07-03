@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manesh-kumar-advani)
 [![Email](https://img.shields.io/badge/Email-manishotic%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishotic@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/971509570380)
-[![Company](https://img.shields.io/badge/Company-Digital_Ad_Experts-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://digitaladexperts.com/)
+[![Company](https://img.shields.io/badge/Company-8Sols_Digital_Solutions-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://8sols.com.com/)
 [![Location](https://img.shields.io/badge/📍_Dubai-UAE-blue?style=for-the-badge)](https://www.google.com/maps/place/Dubai)
 
 </div>
