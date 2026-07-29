@@ -108,19 +108,19 @@ class ManeshKumarAdvani extends Developer {
 
 <div align="center">
 
-[![8Sols](https://img.shields.io/badge/8Sols.com-Visit_Site-7C5CFC)](https://8sols.com/)
-[![DigitalAdExperts](https://img.shields.io/badge/DigitalAdExperts.com-Visit_Site-FF6B35)](https://digitaladexperts.com/)
-[![RealRihan](https://img.shields.io/badge/RealRihan.com-Visit_Site-0077B5)](https://realrihan.com/)
-[![KiddoWorld India](https://img.shields.io/badge/KiddoWorldIndia.com-Visit_Site-25D366)](https://kiddoworldindia.com/)
+[![8Sols](https://img.shields.io/badge/8Sols.com-Visit_Site-7C5CFC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://8sols.com/)
+[![DigitalAdExperts](https://img.shields.io/badge/DigitalAdExperts.com-Visit_Site-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://digitaladexperts.com/)
+[![RealRihan](https://img.shields.io/badge/RealRihan.com-Visit_Site-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://realrihan.com/)
+[![KiddoWorld India](https://img.shields.io/badge/KiddoWorldIndia.com-Visit_Site-25D366?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kiddoworldindia.com/)
 
 </div>
 
 | Website | Type | Stack | Highlights |
 |--------|------|-------|------------|
-| 🚀 **[8Sols.com](https://8sols.com/)** | Agency / Digital Solutions | WordPress · PHP · SEO | Company site for custom software & digital marketing services (web, mobile, ERP/CRM, SEO, performance marketing) |
-| 📈 **[DigitalAdExperts.com](https://digitaladexperts.com/)** | Marketing Agency | WordPress · PHP | Performance marketing & digital advertising services platform |
-| 🛠️ **[RealRihan.com](https://realrihan.com/)** | Custom PHP Application | PHP · Custom Backend | Custom-built PHP app with hardened security (404/410 handling, backdoor remediation, SEO-safe routing) |
-| 🧸 **[KiddoWorldIndia.com](https://kiddoworldindia.com/)** | E-commerce | WooCommerce · WordPress · Elementor | Children's toy store with custom Elementor design, hero sliders, and full QA-driven build |
+| **[8Sols.com](https://8sols.com/)** | Agency / Digital Solutions | WordPress · PHP · SEO | Company site for custom software & digital marketing services (web, mobile, ERP/CRM, SEO, performance marketing) |
+| **[DigitalAdExperts.com](https://digitaladexperts.com/)** | Marketing Agency | WordPress · PHP | Performance marketing & digital advertising services platform |
+| **[RealRihan.com](https://realrihan.com/)** | Custom PHP Application | PHP · Custom Backend | Custom-built PHP app with hardened security (404/410 handling, backdoor remediation, SEO-safe routing) |
+| **[KiddoWorldIndia.com](https://kiddoworldindia.com/)** | E-commerce | WooCommerce · WordPress · Elementor | Children's toy store with custom Elementor design, hero sliders, and full QA-driven build |
 
 ---
 
