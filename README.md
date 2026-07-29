@@ -108,10 +108,10 @@ class ManeshKumarAdvani extends Developer {
 
 <div align="center">
 
-[![8Sols](https://img.shields.io/badge/8Sols.com-Visit_Site-7C5CFC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://8sols.com/)
-[![DigitalAdExperts](https://img.shields.io/badge/DigitalAdExperts.com-Visit_Site-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://digitaladexperts.com/)
-[![RealRihan](https://img.shields.io/badge/RealRihan.com-Visit_Site-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://realrihan.com/)
-[![KiddoWorld India](https://img.shields.io/badge/KiddoWorldIndia.com-Visit_Site-25D366?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kiddoworldindia.com/)
+[![8Sols](https://img.shields.io/badge/8Sols.com-Visit_Site-7C5CFC)](https://8sols.com/)
+[![DigitalAdExperts](https://img.shields.io/badge/DigitalAdExperts.com-Visit_Site-FF6B35)](https://digitaladexperts.com/)
+[![RealRihan](https://img.shields.io/badge/RealRihan.com-Visit_Site-0077B5)](https://realrihan.com/)
+[![KiddoWorld India](https://img.shields.io/badge/KiddoWorldIndia.com-Visit_Site-25D366)](https://kiddoworldindia.com/)
 
 </div>
 
