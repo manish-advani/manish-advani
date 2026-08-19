@@ -103,8 +103,8 @@ class ManeshKumarAdvani extends Developer {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=manish-advani&show_icons=true&theme=transparent&hide_border=true&title_color=7C5CFC&icon_color=7C5CFC&text_color=C9C2F5&bg_color=00000000" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish-advani&layout=compact&theme=transparent&hide_border=true&title_color=7C5CFC&text_color=C9C2F5&bg_color=00000000" />
+<img height="165" src="https://github-readme-stats-alpha-wine-55.vercel.app/api?username=manish-advani&count_private=true&show_icons=true&theme=transparent&hide_border=true&title_color=7C5CFC&icon_color=7C5CFC&text_color=C9C2F5&bg_color=00000000" />
+<img height="165" src="https://github-readme-stats-alpha-wine-55.vercel.app/api/top-langs/?username=manish-advani&layout=compact&theme=transparent&hide_border=true&title_color=7C5CFC&text_color=C9C2F5&bg_color=00000000" />
 
 <br/>
 
